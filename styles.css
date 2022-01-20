@@ -141,7 +141,7 @@ transition: all 1s;
     border-left: none;
 }
 .boxExperience {position: absolute;
-    top: 175%;
+    top: 1300px;
     left: 0px;
     width: 40px;
     height: 40px;
@@ -152,7 +152,7 @@ transition: all 1s;
     border-left: none;
 }
 .boxHobbies {position: absolute;
-    top: 205%;
+    top: 1550px;
     left: 0px;
     width: 40px;
     height: 40px;
